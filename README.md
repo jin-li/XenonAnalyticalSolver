@@ -10,7 +10,7 @@ This is a solver to the xenon/iodine equations in the nuclear reactor core.
 - $\gamma$: yield fraction (xenon or iodine)
 - $\Sigma_f$: macroscopic fission cross section
 - $\phi_0$: initial neutron flux
-- $\sigma_a$: macroscopic absorption cross section
+- $\sigma_a$: microscopic absorption cross section
 - $\lambda$: decay constant (xenon or iodine)
   
 ### Steady state xenon concentration
